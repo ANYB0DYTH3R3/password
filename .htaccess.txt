@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile /.github/Abc6782.github.io/.htpasswd
+require valid-user
